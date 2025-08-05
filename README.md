@@ -1,6 +1,3 @@
-Here's a professional `README.md` file for your GitHub repository:
-
-```markdown
 # Neural Network from Scratch with NumPy
 
 ![Python](https://img.shields.io/badge/Python-3.6%2B-blue)
@@ -97,7 +94,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Inspired by fundamental deep learning principles
 - NumPy for efficient matrix operations
 - Matplotlib for visualization
-```
 
 This README:
 1. Uses standard GitHub formatting
