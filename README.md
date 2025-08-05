@@ -55,7 +55,7 @@ The implementation covers all core neural network concepts:
 
 Run the neural network training:
 ```bash
-python neural_network.py
+python main.py
 ```
 
 The script will:
