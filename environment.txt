@@ -1,9 +1,0 @@
-# environment.yml
-name: nn-scratch-env
-channels:
-  - defaults
-dependencies:
-  - python=3.11.5
-  - numpy
-  - matplotlib
-  - pip
