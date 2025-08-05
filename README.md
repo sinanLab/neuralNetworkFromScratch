@@ -103,5 +103,3 @@ This README:
 5. Includes mathematical notation
 6. Provides customization guidance
 7. Has proper licensing information
-
-You can copy this directly to a `README.md` file in your repository root. The formatting will render properly on GitHub, showing all sections clearly with appropriate headers and code blocks.
